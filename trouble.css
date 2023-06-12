@@ -1,0 +1,20 @@
+body {
+    background-image: url('house3.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+div{
+    width: 600px;
+    color:  rgb(240, 204, 173);
+    border: 2px solid rgb(240, 204, 173);
+    border-radius: 4px;
+    padding: 10px;
+}
+h1, h2 {
+    color:  rgb(240, 204, 173);
+    font-size: larger;
+}
+ol {
+    color:  rgb(240, 204, 173);
+    font-size: larger;
+}
