@@ -1,10 +1,11 @@
 body {
-    background-image: url('house2.jpg');
+    background-image: url('house4.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
 div{
     width: 600px;
+    height: 15%;
     color:  rgb(173, 193, 240);
     border: 2px solid rgb(173, 193, 240);
     border-radius: 8px;
